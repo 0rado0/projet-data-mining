@@ -2,7 +2,6 @@ env_data_mining/
 env_data_projet/
 .vscode/
 __pycache__/
-requirements.txt
 data_*/
 images/
 test*.py
