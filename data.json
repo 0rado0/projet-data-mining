@@ -1,0 +1,27 @@
+{
+    "exoplanet": {
+        "folder": "data_exoplanet",
+        "sparql": "Q44559",
+        "prefix": "ep"
+    },
+    "stars": {
+        "folder": "data_stars",
+        "sparql": "Q523",
+        "prefix": "st"
+    },
+    "spaceprobe": {
+        "folder": "data_spaceprobe",
+        "sparql": "Q26529",
+        "prefix": "sp"
+    },
+    "spaceship": {
+        "folder": "data_spaceship",
+        "sparql": "Q40218",
+        "prefix": "ss"
+    },
+    "spaceflight": {
+        "folder": "data_spaceship",
+        "sparql": "Q5916",
+        "prefix": "sf"
+    }
+}
